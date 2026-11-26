@@ -55,4 +55,4 @@ Proyecto desarrollado en Python con **SQLite** y **SQLAlchemy ORM** para gestion
    py consulta_and.py
    ```
 ## Fork del repositorio en cuenta de Github
-https://github.com/Onlytrashhh/ae1bim-oct26-feb27/blob/main/crear_base_entidades.py
+https://github.com/Onlytrashhh/ae1bim-oct26-feb27/tree/main
